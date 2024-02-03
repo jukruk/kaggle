@@ -1,2 +1,2 @@
-# kaggle
-A repository for kaggle competitions
+# Kaggle
+A repository for kaggle competitions.
